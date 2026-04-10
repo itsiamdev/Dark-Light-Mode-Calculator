@@ -9,7 +9,7 @@ A sleek and responsive web-based calculator featuring a dynamic dark and light m
 - **User-Friendly Interface**: Clean and intuitive design for smooth user experience.
 
 ## Live Demo 🚀
-Check out the live version here: [https://iam269.github.io/Dark-Light-Mode-Calculator/](https://iam269.github.io/Dark-Light-Mode-Calculator/)
+Check out the live version here: [https://itsiamdev.github.io/Dark-Light-Mode-Calculator/](https://itsiamdev.github.io/Dark-Light-Mode-Calculator/)
 
 ## Technologies Used 🛠️
 - HTML5
